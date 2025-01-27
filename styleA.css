@@ -5,6 +5,9 @@ body {
     background-size: cover;
     
   }
+.imgHome{
+    width: 18px;
+}
   
   .section-header {
     display: flex;
